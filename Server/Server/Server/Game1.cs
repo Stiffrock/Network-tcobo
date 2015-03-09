@@ -25,7 +25,7 @@ namespace Server
         Server server;
         public Player[] players;
 
-        public Game1()
+        public Game1() // hejhej skapa conflict
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
