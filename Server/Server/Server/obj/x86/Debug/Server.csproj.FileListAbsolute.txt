@@ -1,0 +1,21 @@
+c:\users\balder\documents\visual studio 2013\Projects\Server\Server\Server\bin\x86\Debug\Server.exe
+c:\users\balder\documents\visual studio 2013\Projects\Server\Server\Server\bin\x86\Debug\Server.pdb
+c:\users\balder\documents\visual studio 2013\Projects\Server\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\balder\documents\visual studio 2013\Projects\Server\Server\Server\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\balder\documents\visual studio 2013\Projects\Server\Server\Server\obj\x86\Debug\Server.exe
+c:\users\balder\documents\visual studio 2013\Projects\Server\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Balder\Documents\Visual Studio 2013\Projects\Server\Server\Server\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Balder\Dropbox\Tibia2.0\Server\Server\Server\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Balder\Dropbox\Tibia2.0\Server\Server\Server\bin\x86\Debug\Server.exe
+C:\Users\Balder\Dropbox\Tibia2.0\Server\Server\Server\bin\x86\Debug\Server.pdb
+C:\Users\Balder\Dropbox\Tibia2.0\Server\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Balder\Dropbox\Tibia2.0\Server\Server\Server\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Balder\Dropbox\Tibia2.0\Server\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Balder\Dropbox\Tibia2.0\Server\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Spellabbet\Dropbox\Tibia2.0\Server\Server\Server\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Dropbox\Tibia2.0\Server\Server\Server\bin\x86\Debug\Server.exe
+C:\Users\Spellabbet\Dropbox\Tibia2.0\Server\Server\Server\bin\x86\Debug\Server.pdb
+C:\Users\Spellabbet\Dropbox\Tibia2.0\Server\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Tibia2.0\Server\Server\Server\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Dropbox\Tibia2.0\Server\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Spellabbet\Dropbox\Tibia2.0\Server\Server\Server\obj\x86\Debug\Server.pdb

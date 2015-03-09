@@ -1,0 +1,2 @@
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0Content\obj\x86\Debug\Tibia2.0Content.contentprojResolveAssemblyReference.cache
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0Content\obj\x86\Debug\Tibia2.0Content.contentprojResolveAssemblyReference.cache

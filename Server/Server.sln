@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server\Server.csproj", "{03A402F6-0700-4164-9162-95FA7C6F2F55}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ServerContent", "Server\ServerContent\ServerContent.contentproj", "{FADCE1A8-CA8C-44C0-B03B-F9C85746BDE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A402F6-0700-4164-9162-95FA7C6F2F55}.Debug|x86.ActiveCfg = Debug|x86
+		{03A402F6-0700-4164-9162-95FA7C6F2F55}.Debug|x86.Build.0 = Debug|x86
+		{03A402F6-0700-4164-9162-95FA7C6F2F55}.Release|x86.ActiveCfg = Release|x86
+		{03A402F6-0700-4164-9162-95FA7C6F2F55}.Release|x86.Build.0 = Release|x86
+		{FADCE1A8-CA8C-44C0-B03B-F9C85746BDE0}.Debug|x86.ActiveCfg = Debug|x86
+		{FADCE1A8-CA8C-44C0-B03B-F9C85746BDE0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

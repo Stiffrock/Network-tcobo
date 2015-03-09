@@ -1,0 +1,3 @@
+c:\users\balder\documents\visual studio 2013\Projects\Server\Server\ServerContent\obj\x86\Debug\ServerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Balder\Dropbox\Tibia2.0\Server\Server\ServerContent\obj\x86\Debug\ServerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Tibia2.0\Server\Server\ServerContent\obj\x86\Debug\ServerContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Tibia2.0.exe
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Tibia2.0.pdb
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\obj\x86\Debug\Tibia2.0.csprojResolveAssemblyReference.cache
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\obj\x86\Debug\Tibia2.0.exe
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\obj\x86\Debug\Tibia2.0.pdb
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Content\intro.xnb
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\balder\documents\visual studio 2013\Projects\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Content\solidblack.xnb
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Content\intro.xnb
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Content\solidblack.xnb
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Tibia2.0.exe
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\bin\x86\Debug\Tibia2.0.pdb
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\obj\x86\Debug\Tibia2.0.csprojResolveAssemblyReference.cache
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\obj\x86\Debug\Tibia2.0.exe
+C:\Users\Balder\Dropbox\Tibia2.0\Tibia2.0\Tibia2.0\Tibia2.0\obj\x86\Debug\Tibia2.0.pdb
