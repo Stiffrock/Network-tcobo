@@ -23,7 +23,7 @@ namespace Server
         SpriteFont font;
 
         Server server;
-        public Player[] players;
+        public Player[] players; // Balder är ingen player, för han kommer från DK. och är N00B  MED law i tekken!!?!??!?!
 
         public Game1() // hejhej skapa conflict
         {
